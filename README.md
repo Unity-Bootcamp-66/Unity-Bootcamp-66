@@ -32,6 +32,7 @@ Insidiousouls, zorlu mücadeleler barındıran souls-like bir indie oyundur.
 - Oyuncuların bitirme sürelerine göre birbiriyle rekabet edebileceği bir leaderboard sistemi içermektedir.
 - Oyuncuların kendi ilerleyişlerini görebilecekleri bir achievement sistemi içermektedir.
 - Steam ve Epic Games gibi platformlarda satışı yapılacaktır.
+- 2021.3.1f1 Unity Editor versiyonu kullanılmıştır.
 
 
 ## Hedef Kitle
@@ -218,30 +219,30 @@ Yapılan çalışmalar:
 
 - **Backlog düzeni ve Story seçimleri**: Sprint 3'de tamamlanması gereken çok sayıda öğeyi hızlı ve efektif bir şekilde tahmin edebilmek için Bucket Çevik teorisinden faydalanılmıştır.  Son sprint olmasından kaynaklı herhangi bir görevin tamamlanmaması durumunda tahmin edilen süre aşılacak ve başarısız olunacaktır. Bu sebeple her bir göreve eşit değer verilmiş ve görevlerin mutlak suretle tamamlanması için eşit puan verilmiştir.
 
-- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. [Sprint 3 Daily Scrum Chats](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/SPR%C4%B0NT%203-%20DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
+- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. [Sprint 3 Daily Scrum Chats](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/SPR%C4%B0NT%203-%20DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-![Backlog 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20Backlog1.JPG) 
+![Backlog 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint%203-%20Backlog1.JPG) 
 
 - **Gluon-Plastic SCM**: Oyun geliştiricilerin sıklıkla kullandığı Gluon, versiyon kontrolü için kullanılmıştır. 
 
-![Gluon 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20Gluon-1.JPG) 
+![Gluon 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint%203-%20Gluon-1.JPG) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
 -  Boss - The Satan
 
-![TheSatan ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20The_Satan.gif)
+![TheSatan ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint%203-%20The_Satan.gif)
 
 -  Ana Karakter- Judgement-Charge Animasyonu
 
-![Karakter1 ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203%20-Judgement-Charge.png)
+![Karakter1 ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint%203%20-Judgement-Charge.png)
 
 -  Ana Karakter- Judgment-Slash Animasyonu
 
-![Karakter2 ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20Judgment-Slash.png)
+![Karakter2 ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint%203-%20Judgment-Slash.png)
 
 -  Sahne 1
 
@@ -268,6 +269,6 @@ Sprint 3 için kararlaştırılan kod ve pixel art çalışmaları tamamlanmış
 
 - Sprint başlarında kararlaştırılan tüm kararlar tamamlanmış, kontrollü bir şekilde geri dönütler verilmiş, geliştirmeler yapılmıştır. Sprint 3 ve genel bootcamp değerlendirme için bir proje sonu değerlendirme anketi yapılmıştır. Anket sonuç grafikleri şu şekildedir. Yüksek oranda başarılı geçen bir bootcamp olduğu düşünülmektedir. 
 
-## Scrum Sonu Değerlendirme Anket Sonuçları
+**Scrum Sonu Değerlendirme Anket Sonuçları**
 
 [Scrum Survey](https://docs.google.com/spreadsheets/d/1HqsesED3eb07rEOCcBK6BX8xnkhaTX6by9y4BibfgY0/edit?usp=sharing)
