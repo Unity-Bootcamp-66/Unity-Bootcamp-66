@@ -228,6 +228,7 @@ Yapılan çalışmalar:
 
 ![Gluon 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20Gluon-1.JPG) 
 
+
 - **Ürün Durumu**: Ekran görüntüleri:
 
 -  Boss - The Satan
@@ -241,6 +242,15 @@ Yapılan çalışmalar:
 -  Ana Karakter- Judgment-Slash Animasyonu
 
 ![Karakter2 ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint%203-%20Judgment-Slash.png)
+
+-  Sahne 1
+
+![Sahne 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/sahne1.jpeg)
+
+
+-  Sahne 2
+
+![Sahne 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/sahne2.jpeg)
 
 - **Sprint Review**:
  
@@ -257,3 +267,7 @@ Sprint 3 için kararlaştırılan kod ve pixel art çalışmaları tamamlanmış
 **Sprint Retrospective**:
 
 - Sprint başlarında kararlaştırılan tüm kararlar tamamlanmış, kontrollü bir şekilde geri dönütler verilmiş, geliştirmeler yapılmıştır. Sprint 3 ve genel bootcamp değerlendirme için bir proje sonu değerlendirme anketi yapılmıştır. Anket sonuç grafikleri şu şekildedir. Yüksek oranda başarılı geçen bir bootcamp olduğu düşünülmektedir. 
+
+## Scrum Sonu Değerlendirme Anket Sonuçları
+
+[Scrum Survey](https://docs.google.com/spreadsheets/d/1HqsesED3eb07rEOCcBK6BX8xnkhaTX6by9y4BibfgY0/edit?usp=sharing)
