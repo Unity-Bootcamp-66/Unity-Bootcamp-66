@@ -58,47 +58,47 @@ Insidiousouls, zorlu mücadeleler barındıran souls-like bir indie oyundur.
 
 - **Backlog düzeni ve Story seçimleri**: Sprint 1'de hızlı kararlar alınabilmesi ve verimli bir başlangıç yapılabilmesi amacıyla Fibonacci Sistemi Tahminleme Tekniği'nden faydalanılmıştır. Backlog'umuz tasarım ve mekanik kodlamalar için ayrı story'lerde düzenlenmiştir. Sprint başına planlanan görevler için Story’ler yapılacak işlere (task'lere) bölünmüştür. Trello backloglarda gözüken işaretli kutu item’lar tamamlanan işleri, boş olan item’lar ise tamamlanacak olanları göstermektedir.
 
-- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. Tanışma toplantımızdan Sprint-1 sonuna kadar geçen süreçte alınan kararlar ve çıktılar ‘Daily Scrum Notları’ dosyasında paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
+- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. Tanışma toplantımızdan Sprint-1 sonuna kadar geçen süreçte alınan kararlar ve çıktılar ‘Daily Scrum Notları’ dosyasında paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/1.DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-![Backlog 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Backlog-1.JPG) 
+![Backlog 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Backlog-1.JPG) 
 
-![Backlog 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Backlog--2.JPG) 
+![Backlog 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Backlog-2.JPG) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
 
 -  Ana Karakter
   
-![Karakter ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/gif2.gif)
+![Karakter ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/gif2.gif)
 
 
 -  Boss 1
 
 
-![Boss 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Boss1-v1.png)
+![Boss 1](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Boss1-v1.png)
 
   
 -  Boss 1- Mekan Tasarımı
 
-![Boss 1-Çevre Tasarımı ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/space1.png)
+![Boss 1-Çevre Tasarımı ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/space1.png)
 
 
 -  Sahne 1
 
-![Sahne 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/pic2.jpg)
+![Sahne 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/pic2.jpg)
 
 
 -  Sahne 2
 
-![Sahne 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/pic1.jpg)
+![Sahne 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/pic1.jpg)
 
 
 -  Sahne 3
 
-![Sahne 3]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/pic3.jpg)
+![Sahne 3]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/pic3.jpg)
 
 
 
@@ -142,14 +142,14 @@ Yapılan çalışmalar:
 
 - **Backlog düzeni ve Story seçimleri**: Sprint 1'de hızlı kararlar alınabilmesi ve verimli bir başlangıç yapılabilmesi amacıyla Fibonacci Sistemi Tahminleme Tekniği'nden faydalanılmıştır. Sprint 2'de ise Sprint 1 de kullanılan Fibonacci Sistemi Tahminleme yönteminin görev paylaşımı konusunda tam görev yükü karşılığını vermediği düşünüldüğü için bu Sprintte Backlog puanlamasında Bucket Sistem Tahminleme yöntemi uygulanmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. [Sprint 2 Daily Scrum Chats]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/SPR%C4%B0NT%202-%20DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
+- **Daily Scrum**: Daily Scrum toplantıları efektif bir biçimde bilgi paylaşımında bulunulabilmesi için Whatsapp ve Discord(Video Konferans şeklinde) üzerinden yürütülmüştür. [Sprint 2 Daily Scrum Chats]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/SPR%C4%B0NT%202-%20DA%C4%B0LY%20%20SCRUM%20NOTLARI.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-![Backlog 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint2-Backlog2-1.JPG) 
+![Backlog 1]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint2-Backlog2-1.JPG) 
 
-![Backlog 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint2-Backlog2-2.JPG) 
+![Backlog 2]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint2-Backlog2-2.JPG) 
 
 
 
@@ -158,7 +158,7 @@ Yapılan çalışmalar:
 
 -  Achievements
   
-![Achievements ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint2-achievements.JPG)
+![Achievements ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint2-achievements.JPG)
 
 
 
@@ -166,20 +166,15 @@ Yapılan çalışmalar:
 -  Health Bar
 
 
-![Healthbar](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint2-%20healthbar_view.png)
+![Healthbar](https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Sprint2-%20healthbar_view.png)
 
 
 
 
 -  Boss 1
 
-![BossUpdated ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Boss1-updatedpixelart.jpg)
+![BossUpdated ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/Boss1-updatedpixelart.jpg)
 
-
-  
--  Boss 1 Arrow Rain
-
-![BossArrow ]( https://github.com/Unity-Bootcamp-66/Unity-Bootcamp-66/blob/main/BootcampScrumTemplate/ProjectManagement/Sprint2-BossArrow.png)
 
 
 
